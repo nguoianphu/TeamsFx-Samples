@@ -29,7 +29,7 @@ Hello World Tab with Backend shows you how to build a tab app with an Azure Func
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/), supported versions: 16, 18
+- [Node.js](https://nodejs.org/), supported versions: 18, 20
 - A Microsoft 365 account. If you do not have Microsoft 365 account, apply one from [Microsoft 365 developer program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 - [Teams Toolkit Visual Studio Code Extension](https://aka.ms/teams-toolkit) version 5.0.0 and higher or [TeamsFx CLI](https://aka.ms/teamsfx-cli)
 
@@ -78,6 +78,7 @@ Hello World Tab with Backend shows you how to build a tab app with an Azure Func
 |---|---|---|
 |May 18, 2022| hund030 | update to support Teams Toolkit v4.0.0|
 |Dec 8, 2022| hund030 | update to support Teams Toolkit v5.0.0|
+|Feb 2, 2024| hund030 | upgrade to Azure Functions V4|
 
 ## Feedback
 We really appreciate your feedback! If you encounter any issue or error, please report issues to us following the [Supporting Guide](https://github.com/OfficeDev/TeamsFx-Samples/blob/dev/SUPPORT.md). Meanwhile you can make [recording](https://aka.ms/teamsfx-record) of your journey with our product, they really make the product better. Thank you!
